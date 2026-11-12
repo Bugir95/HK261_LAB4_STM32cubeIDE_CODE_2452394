@@ -1,0 +1,6 @@
+sched.c:9:6:SCH_Init	16	static,ignoring_inline_asm
+sched.c:29:5:SCH_Add_Task	32	static,ignoring_inline_asm
+sched.c:58:6:SCH_Update	16	static
+sched.c:85:6:SCH_Dispatch_Tasks	16	static
+sched.c:104:5:SCH_Delete_Task	24	static,ignoring_inline_asm
+sched.c:138:5:SCH_Get_Time	16	static,ignoring_inline_asm
